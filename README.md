@@ -24,9 +24,9 @@
 * Kredi satın alabilirsin.
 
 ### AllyMC VIP Fiyat Listesi
-> VIP => 25 Türk Lirası
-> VIP+ => 35 Türk Lirası
-> AVIP => 45 Türk Lirası
+> VIP => 25 Türk Lirası <br>
+> VIP+ => 35 Türk Lirası <br>
+> AVIP => 45 Türk Lirası <br>
 > AVIP+ => 55 Türk Lirası
 
 ### AllyMC Kredi Fiyat Listesi(Market || Oyun İçi)
