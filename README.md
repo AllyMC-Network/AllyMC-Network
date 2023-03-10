@@ -30,8 +30,8 @@
 > AVIP+ => 55 Türk Lirası
 
 ### AllyMC Kredi Fiyat Listesi(Market || Oyun İçi)
-> 1 Kredi => 1 Bakiye(Sitemiz tamamlanana kadar 2 Türk Lirası)
-> 5 Kredi => 5 Bakiye(Sitemiz tamamlanana kadar 6 Türk Lirası)
+> 1 Kredi => 1 Bakiye(Sitemiz tamamlanana kadar 2 Türk Lirası) <br>
+> 5 Kredi => 5 Bakiye(Sitemiz tamamlanana kadar 6 Türk Lirası) <br>
 > 10 Kredi => 10 Bakiye(Sitemiz tamamlanana kadar 9 Türk Lirası)
 > 25 Kredi => 24 Bakiye(Sitemiz tamamlanana kadad 23 Türk Lirası)
 > 50 Kredi => 50 Bakiye(Sitemiz tamamlanana kadar 49 Türk Lirası)
