@@ -3,7 +3,7 @@
 > Misyonumuz size MCBE içerisinde en iyi SkyBlock deneyimini sunmak.
 
 ## AllyMC Ekibi
-- ```@nxpinhum5326 (Kurucu & Yönetici & Geliştirici)
-- Ardq08 (Kurucu & Yönetici)```
+- ```@nxpinhum5326 (Kurucu & Yönetici & Geliştirici)```
+- Ardq08 (Kurucu & Yönetici)
 - @MENTRES (Yönetici)
 - @hexati (Yönetici)
