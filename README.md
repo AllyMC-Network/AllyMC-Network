@@ -32,8 +32,8 @@
 ### AllyMC Kredi Fiyat Listesi(Market || Oyun İçi)
 > 1 Kredi => 1 Bakiye(Sitemiz tamamlanana kadar 2 Türk Lirası) <br>
 > 5 Kredi => 5 Bakiye(Sitemiz tamamlanana kadar 6 Türk Lirası) <br>
-> 10 Kredi => 10 Bakiye(Sitemiz tamamlanana kadar 9 Türk Lirası)
-> 25 Kredi => 24 Bakiye(Sitemiz tamamlanana kadad 23 Türk Lirası)
-> 50 Kredi => 50 Bakiye(Sitemiz tamamlanana kadar 49 Türk Lirası)
-> 80 Kredi => 85 Bakiye(Sitemiz tamamlanana kadar 84 Türk Lirası)
-> 100 Kredi => 100 Bakiye(Sitemiz tamamlanana kadar 99 Türk Lirası)
+> 10 Kredi => 10 Bakiye(Sitemiz tamamlanana kadar 9 Türk Lirası) <br>
+> 25 Kredi => 24 Bakiye(Sitemiz tamamlanana kadad 23 Türk Lirası) <br>
+> 50 Kredi => 50 Bakiye(Sitemiz tamamlanana kadar 49 Türk Lirası) <br>
+> 80 Kredi => 85 Bakiye(Sitemiz tamamlanana kadar 84 Türk Lirası) <br>
+> 100 Kredi => 100 Bakiye(Sitemiz tamamlanana kadar 99 Türk Lirası) <br>
